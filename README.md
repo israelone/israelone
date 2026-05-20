@@ -1,17 +1,37 @@
 <h1 align="center">Hi 👋, I'm Israel Lopez</h1>
-<h3 align="center">A passionate frontend developer from US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=israelone&label=Profile%20views&color=0e75b6&style=flat" alt="israelone" /> </p>
+<h3 align="center">
+Full-Stack Software Developer focused on building scalable web applications, business tools, and data-driven user experiences.
+</h3>
 
-- 🌱 I’m currently learning **ExpressJS, GraphQL**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=israelone&label=Profile%20views&color=0e75b6&style=flat" alt="israelone" />
+</p>
 
-- 💬 Ask me about **Angular, React**
+* 🔭 Currently building projects focused on dashboards, workflows, and operational tooling
 
-- 📫 How to reach me **israel.lopez.dev@gmail.com**
+* 🌱 Currently learning **Express.js, GraphQL, cloud/backend architecture concepts**
+
+* 💡 Interested in **full-stack development, APIs, scalable systems, and AI-assisted engineering workflows**
+
+* 💬 Ask me about **React, Angular, JavaScript, frontend architecture, debugging, and business-focused applications**
+
+* 📫 Reach me at **[israel.lopez.dev@gmail.com](mailto:israel.lopez.dev@gmail.com)**
+
+* 🌐 Portfolio: **https://israel-lopez-portfolio.vercel.app/**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/israel-lopez-dev" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Israel Lopez LinkedIn" height="30" width="40" />
+</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/israelone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israelone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/israel-lopez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israelone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
